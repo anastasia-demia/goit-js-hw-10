@@ -10,6 +10,8 @@ body {
   background-color: #fafafa;
   color: #212121;
   line-height: 1.5;
+  background-image: radial-gradient(grey 1px, transparent 0);
+  background-size: 50px 50px;
 }
 
 #search-box {
