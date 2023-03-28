@@ -18,3 +18,48 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+/* my css */
+
+.country-info__wrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.country-info__flags {
+  margin-right: 10px;
+}
+
+.country-info__name {
+  font-size: 20px;
+}
+
+.country-info__capital {
+  margin-bottom: 10px;
+}
+
+.country-info__population {
+  margin-bottom: 10px;
+}
+
+.country-info__weight {
+  font-weight: 500;
+}
+
+/* country-list */
+
+.country-list__item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.country-list__flags {
+  margin-right: 10px;
+}
+
+.country-list__name {
+  font-size: 15px;
+  font-weight: 400;
+}
